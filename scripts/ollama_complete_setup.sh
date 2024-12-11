@@ -1,3 +1,4 @@
+echo "Modifications to this script is required! Modify it where it suits your needs."
 echo "Installing Ollama on your environment"
 curl -fsSL https://ollama.com/install.sh | sh
 echo "Starting Ollama Service"
