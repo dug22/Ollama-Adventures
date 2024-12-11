@@ -10,7 +10,7 @@ machine learning models to work with.
 <p align="justify">
 Ollama Adventures is a GitHub repository that contains a collection of Jupyter Notebooks demonstrating the features and capabilities of Ollama's models.
 Ollama Adventures explores different avenues on how Ollama's Llama models are capable of answering questions, analyzing and summarizing PDF documents, analyzing
-YouTube video transcripts, interpreting images (Llava), and analyzing complex datasets. 
+YouTube video transcripts, interpreting images (Ollama's Llava model), and analyzing complex datasets. 
 </p>
 
 ## Setup for Local Environments
