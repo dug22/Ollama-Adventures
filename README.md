@@ -32,7 +32,6 @@ These notebooks were developed using Google Colab's Jupyter environment. If you 
     * Ensure you have enough disk space to store Ollama's large language mode files.
   * Python 3.3 or greater.
   * Install Ollama https://ollama.com/download (ensure you choose the right installation depending on your environment.) 
-  * Install Llama3.2 or 3.1 model
   * Jupyter (preferably recommend using the Anaconda distribution to install Python and Jupyter)
   * Python packages these notebooks used (refer to requirements.txt)
   * Notebook Modifications:
